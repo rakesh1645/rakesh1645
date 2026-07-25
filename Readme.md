@@ -100,9 +100,14 @@ A responsive real-estate platform with property listings, dynamic search and fil
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
-  </a>
+ <a href="https://github.com/rakesh1645" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    alt="Rakesh Choudhary on GitHub"
+    height="30"
+    width="40"
+  />
+</a>
 </p>
 
 ---
@@ -132,15 +137,22 @@ A responsive real-estate platform with property listings, dynamic search and fil
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh1645&show_icons=true&theme=tokyonight&hide_border=true" alt="Rakesh's GitHub statistics" />
+  <!-- <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakesh1645&theme=tokyonight"
+    alt="Rakesh's GitHub statistics"
+  />
+  
+  <!-- <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakesh1645&theme=tokyonight"
+    alt="Rakesh's most-used languages"
+  /> --> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh1645&layout=compact&theme=tokyonight&hide_border=true" alt="Rakesh's most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rakesh1645&theme=tokyonight&hide_border=true" alt="Rakesh's GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=rakesh1645&theme=tokyonight&hide_border=true"
+    alt="Rakesh's GitHub contribution streak"
+  />
 </p>
 
 ---
