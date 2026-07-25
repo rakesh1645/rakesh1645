@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Engineer | React.js, Next.js & Node.js</h3>
 
 <p align="center">
-  A Full-Stack Developer from Jaipur, India, with 2+ years of experience building scalable, responsive, and production-ready web applications.
+  A Full-Stack Developer from Jaipur, India, with 2+ years of experience building scalable, responsive, and production-ready web applications. 
 </p>
 
 ---
