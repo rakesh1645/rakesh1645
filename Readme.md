@@ -1,173 +1,101 @@
-<h1 align="center">Hi 👋, I'm Rakesh Choudhary</h1>
+<p align="center">
+  <a href="https://github.com/rakesh1645">
+    <img src="kwork_RakeshChoudhary.jpg" alt="Rakesh Choudhary Banner" width="100%" max-height="250" style="max-height: 250px; object-fit: cover;" />
+  </a>
+</p>
 
-<h3 align="center">Full-Stack Engineer | React.js, Next.js & Node.js</h3>
+<h1 align="center">Hi, I'm Rakesh Choudhary! 👋</h1>
+<h3 align="center">🚀 Full Stack Engineer (React.js / Next.js / Node.js / TypeScript)</h3>
 
 <p align="center">
-  A Full-Stack Developer from Jaipur, India, with 2+ years of experience building scalable, responsive, and production-ready web applications. 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rakeshchoudhary_visitor_badge&left_color=royalblue&right_color=black" alt="visitor badge" />
+</p>
+
+<p align="center">
+  Passionate Full Stack Engineer with <b>2+ years of experience</b> crafting high-performance, scalable web applications. Specializing in modern JavaScript/TypeScript ecosystems, AI-augmented development, clean architecture, and delivering seamless user experiences across EdTech, Travel, and E-Commerce domains.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Languages & Tools
 
-- 🔭 I’ve worked on a live **SaaS career-counselling platform** used by thousands of students.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,html,css,tailwind,bootstrap,mongodb,mysql,git,azure,vercel" alt="Skills and tools"/>
+  </a>
+</p>
 
-- 💻 I build full-stack applications using **React.js, Next.js, Node.js, TypeScript, MongoDB, and MySQL**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakesh1645/rakesh1645/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+</p>
 
-- 🔐 Experienced with **session-based authentication, role-based access control, REST APIs, subscriptions, and payment integrations**.
+---
 
-- 🌱 Currently improving my knowledge of **backend architecture, system design, and application performance**.
+### 🧑‍💻 About Me
 
-- 🤝 Open to collaborating on **MERN-stack, SaaS, e-commerce, and other full-stack projects**.
+- ⚡ **Current Role:** Full Stack Engineer at **Keasbrain Technologies**
+- 🎓 **Education:** Bachelor of Computer Applications (BCA) - S.S. Jain Subodh P.G. College
+- 🤖 **AI-Augmented Workflows:** Leverages **GitHub Copilot**, **OpenAI Codex**, and **Google Antigravity** to accelerate feature delivery, test scaffolding, and code quality.
+- 💡 **Core Expertise:** Frontend Optimization (SSR/SSG), RESTful API Design, Micro-services & Database Architecture (MongoDB, MySQL).
+- 📍 **Location:** Jaipur, Rajasthan, India
+- 📫 **Reach Me:** [rakeshchoudhary941397@gmail.com](mailto:rakeshchoudhary941397@gmail.com) | [+91 9024226200](tel:+919024226200)
 
-- 📍 Based in **Jaipur, Rajasthan, India**.
+---
 
-- 📫 Reach me at **[rakehschoudhary941397@gmail.com](mailto:your-email@example.com)**
+### 💼 Work Experience
+
+#### 🔹 **Full Stack Engineer** — _Keasbrain Technologies Pvt Ltd_ `Dec 2025 – Present`
+
+- Leading end-to-end development of **Visuti Career**, a multi-panel SaaS career-counselling platform built with React.js, Next.js, Node.js, and TypeScript.
+- Architected high-performance RESTful APIs and optimized MongoDB & MySQL schemas for complex counselling workflows (seat matrices, allotment data).
+- Integrated AI coding assistants (Copilot, Antigravity) into daily workflows to streamline boilerplate generation and code reviews.
+
+#### 🔹 **Front-End Developer** — _Aladinn Digital Solutions_ `June 2024 – Nov 2025`
+
+- Developed and maintained multiple high-performance web applications using React.js and Next.js with focus on SSR/SSG and lazy loading.
+- Standardized a reusable UI component library in React, speeding up cross-functional feature delivery.
+- Awarded **Employee of the Week** multiple times for React best practices and developer mentorship.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### Visuti Career – Career-Counselling SaaS Platform
-
-A production career-counselling platform featuring multiple user roles, counselling predictors, subscription-based access, college comparisons, document tools, and advanced filtering.
-
-**Technologies:** Next.js, React.js, TypeScript, Node.js, MongoDB, MySQL and Tailwind CSS
-
-🔗 [Visit Visuti Career](https://visuticareer.com)
-
-#### Field Notes – Subscription-Based Notes Application
-
-A full-stack notes application with session-based authentication, email confirmation, protected routes, subscription management, Supabase database integration, and Paddle payments.
-
-**Technologies:** Next.js, TypeScript, Supabase, PostgreSQL, Paddle and Tailwind CSS
-
-🔗 [Live Application](https://field-notes-gamma.vercel.app/dashboard)
-🔗 [GitHub Repository](https://github.com/rakesh1645/Field-notes)
-
-#### Roodraksh – Real Estate Website
-
-A responsive real-estate platform with property listings, dynamic search and filtering, server-side rendering, and SEO-friendly pages.
-
-**Technologies:** Next.js, React.js and Tailwind CSS
-
-🔗 [Visit Roodraksh](https://roodraksh.co.in)
+| Project           | Stack                                 | Key Highlights                                                                                                                                             |
+| :---------------- | :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Visuti Career** | `React` `Next.js` `Node.js` `MongoDB` | SaaS Career Counselling platform with Role-Based Access Control (RBAC, 5+ roles), subscription plan-gated data access, JWT auth, and OTP verification.     |
+| **Stop Delay**    | `React.js` `REST APIs` `Tailwind`     | Flight Compensation platform featuring intuitive multi-step claim submission, client validation, and interactive animated hero section.                    |
+| **JKJ Jewellers** | `React` `Next.js` `SEO` `CSS3`        | E-commerce fine jewelry platform featuring rich product catalog filters, interactive image zoom, optimized cart/checkout flow, and meta SEO optimizations. |
 
 ---
 
-### 🛠️ Languages and Tools
+### 🎓 Education
+
+- 🎓 **Bachelor of Computer Applications (BCA)** — S.S. Jain Subodh P.G. (Autonomous) College _(2021 – 2024)_
+- 🏫 **Intermediate (Class 12)** — Govt. Sr. Sec. School, RBSE _(2021 | 90%)_
+
+---
+
+### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  <a href="https://github.com/rakesh1645" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
+  &nbsp;
+  <a href="mailto:rakeshchoudhary941397@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="42" height="42"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="42" height="42"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
-  </a>
- <a href="https://github.com/rakesh1645" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    alt="Rakesh Choudhary on GitHub"
-    height="30"
-    width="40"
-  />
-</a>
 </p>
 
 ---
 
-### 💼 Professional Experience
+### ✨ Core Strengths
 
-#### Full-Stack Developer — KeasBrain Technologies
-
-**December 2025 – July 2026**
-
-- Built and maintained scalable web applications using React.js, Next.js, Node.js, TypeScript, MongoDB, and MySQL.
-- Led the development of a live SaaS career-counselling platform.
-- Implemented session-based authentication, role-based access control, subscriptions, and complex data-filtering features.
-- Developed and optimized responsive interfaces, backend APIs, database queries, and production features.
-
-#### Frontend Developer — Aladinn Digital Solutions
-
-**July 2024 – November 2025**
-
-- Developed responsive web applications using React.js, Next.js, JavaScript, Tailwind CSS, and Bootstrap.
-- Converted UI designs into reusable and maintainable components.
-- Integrated REST APIs and worked closely with backend developers.
-- Improved performance, responsiveness, SEO, and cross-browser compatibility across client projects.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <!-- <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakesh1645&theme=tokyonight"
-    alt="Rakesh's GitHub statistics"
-  />
-  
-  <!-- <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakesh1645&theme=tokyonight"
-    alt="Rakesh's most-used languages"
-  /> --> 
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=rakesh1645&theme=tokyonight&hide_border=true"
-    alt="Rakesh's GitHub contribution streak"
-  />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rakesh-choudhary-122146266/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rakesh Choudhary on LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/rakesh1645" t`arget="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Rakesh Choudhary on GitHub" height="30" width="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Let’s connect and build something meaningful together.</i>
-</p>
+- 🚀 **Full Stack System Architecture** — RESTful APIs & Scalable Backend Workflows
+- ⚡ **Frontend Performance** — SSR/SSG, Code Splitting & Lazy Loading with Next.js & React
+- 🗄️ **Database Design** — MongoDB Aggregation Pipelines & MySQL Schema Optimization
+- 🤖 **AI-Driven Workflows** — Accelerated feature delivery using Google Antigravity & GitHub Copilot
