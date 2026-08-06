@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rakesh1645"> 
-    <img src="kwork_RakeshChoudhary.jpg" alt="Rakesh Choudhary Banner" width="100%" max-height="200" style="max-height: 200px; object-fit: cover;" />
+    <img src="kwork_RakeshChoudhary.jpg" alt="Rakesh Choudhary Banner" width="100%" max-height="100%" style=" object-fit: cover;" />
   </a>
 </p>
 
