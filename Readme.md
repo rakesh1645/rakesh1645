@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Rakesh Choudhary! 👋</h1>
-<h3 align="center">🚀 Full Stack Engineer (React.js / Next.js / Node.js / TypeScript)</h3>
+<h1 align="center">Hi, I'm Rakesh Choudhary!</h1>
+<h3 align="center"> Full Stack Engineer (React.js / Next.js / Node.js / TypeScript)</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rakeshchoudhary_visitor_badge&left_color=royalblue&right_color=black" alt="visitor badge" />
