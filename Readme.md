@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/rakesh1645"> 
     <img src="kwork_RakeshChoudhary.jpg" alt="Rakesh Choudhary Banner" width="100%" max-height="100%" style=" object-fit: cover;" />
-  </a>
+  </a> 
 </p>
 
 <h1 align="center">Hi, I'm Rakesh Choudhary!</h1>
